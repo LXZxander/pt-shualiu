@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
+<title>CarPT Torrents</title>
+<item>
+<title><![CDATA[[电影/Movies]Test Movie 2026 Bluray 1080p x265 [100.00 MB][anonymous]]]></title>
+<link><![CDATA[https://carpt.net/details.php?id=192933]]></link>
+<description><![CDATA[]]></description>
+<author>anonymous@carpt.net (anonymous)</author>
+<enclosure url="https://carpt.net/download.php?downhash=abc123" length="104857600" type="application/x-bittorrent" />
+<guid isPermaLink="false">aabbccddeeff00112233445566778899aabbccdd</guid>
+<pubDate>Fri, 07 Aug 2026 21:40:24 +0800</pubDate>
+</item>
+</channel></rss>
